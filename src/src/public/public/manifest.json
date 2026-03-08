@@ -1,0 +1,25 @@
+{
+  "short_name": "ClearPath",
+  "name": "ClearPath — Abstinence Tracker",
+  "description": "Track your abstinence journey, journal your progress, and connect with a supportive community.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#68896B",
+  "background_color": "#F7F3EE",
+  "categories": ["health", "lifestyle", "medical"]
+}
